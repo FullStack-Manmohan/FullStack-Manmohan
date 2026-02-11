@@ -7,6 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-Contact_Me-2D3748?style=for-the-badge&logo=link)](https://manmohanyadav.com/contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manmohan-yadav)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FullStack-Manmohan)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/manmohanyadav)
 
 üìç **Honolulu Metropolitan Area**
 
@@ -61,11 +62,14 @@ If you need a **senior, hands-on engineer** who can own delivery (architecture ‚
 
 ### Connect
 
-- **Hire me / Get in touch:** [manmohanyadav.com/contact](https://manmohanyadav.com/contact)
-- **Projects:** [manmohanyadav.com/projects](https://manmohanyadav.com/projects)
-- **LinkedIn:** [linkedin.com/in/manmohan-yadav](https://www.linkedin.com/in/manmohan-yadav)
-- **GitHub:** [github.com/FullStack-Manmohan](https://github.com/FullStack-Manmohan)
-- **UpTecHunt:** [uptechunt.com](https://www.uptechunt.com)
+| | |
+|---|---|
+| **Hire me** | [manmohanyadav.com/contact](https://manmohanyadav.com/contact) |
+| **Projects** | [manmohanyadav.com/projects](https://manmohanyadav.com/projects) |
+| **LinkedIn** | [linkedin.com/in/manmohan-yadav](https://www.linkedin.com/in/manmohan-yadav) |
+| **Upwork** | [upwork.com/freelancers/manmohanyadav](https://www.upwork.com/freelancers/manmohanyadav) |
+| **GitHub** | [github.com/FullStack-Manmohan](https://github.com/FullStack-Manmohan) |
+| **UpTecHunt** | [uptechunt.com](https://www.uptechunt.com) |
 
 ---
 
